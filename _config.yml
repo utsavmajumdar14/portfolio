@@ -35,7 +35,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Utsav Majumdar
-  image             : "{{site.baseurl}}"/assets/pngs/profile_pic.png
+  image             : https://drive.google.com/file/d/1-CuOfAKR34Kq1j0lweufBSYPLXUgsHDR/view?usp=sharing
 #  behance           : your_username
 # dribbble          : your_username
   email             : utsav.majumdar1497@gmail.com
