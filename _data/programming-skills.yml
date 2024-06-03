@@ -1,0 +1,53 @@
+
+- name: C/C++
+  percentage: 90
+  level: 
+  color: primary
+
+- name: Python
+  percentage: 80
+  level: 
+  color: primary
+
+- name: SQL
+  percentage: 60
+  level: 
+  color: warning
+
+- name: CPLEX
+  percentage: 50
+  level: 
+  color: warning
+
+- name: MATLAB
+  percentage: 45
+  level: 
+  color: warning
+
+- name: CUDA
+  percentage: 40
+  level: 
+  color: warning
+
+- name: Java
+  percentage: 30
+  level: 
+  color: danger
+
+- name: R
+  percentage: 30
+  level: 
+  color: danger
+
+- name: Bash
+  percentage: 20
+  level: 
+  color: danger
+
+- name: HTML5/CSS3
+  percentage: 20
+  level: 
+  color: danger
+
+
+

@@ -1,0 +1,35 @@
+
+- name: Gurobi
+  percentage: 95
+  level: 
+  color: primary
+
+- name: Networkx
+  percentage: 90
+  level: 
+  color: primary
+
+- name: Microsoft Excel
+  percentage: 95
+  level: 
+  color: primary
+
+- name: PyCUDA
+  percentage: 50
+  level: 
+  color: warning
+
+- name: PyTorch
+  percentage: 40
+  level: 
+  color: warning
+
+- name: SAP
+  percentage: 45
+  level: 
+  color: warning
+
+- name: Jekyll
+  percentage: 30
+  level: 
+  color: danger

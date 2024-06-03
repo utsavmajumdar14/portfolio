@@ -1,0 +1,105 @@
+- title: Research Assistant, <a href="https://illinois.edu/">UIUC</a>
+  from: Jan, 2024
+  to: present
+  description: >
+    <i>Accelerating Linear Assignment Problem solvers (on-going):</i><br>
+    Implementing primal algorithms to solve the LAP problem in an iterative dynamic setting, which further is used to solve Resource Capacitated Assignment Problems (RCAP) using sub-gradient algorithms in a branch and bound setting.<br>
+    Developing a sequential codebase in C++ along with parallel computing codebase using CUDA to further accelerate the solver.
+
+- title: Global Supply Manager Intern, <a href="https://www.tesla.com/">Tesla, CA</a>
+  from: Sep, 2023
+  to: Dec, 2023
+  description: >
+    <i>Internship Project:</i><br>
+    • Built a should-costing model for injection molding tools for the team to use on confluence workspace<br>
+    • Validated and benchmarked the model and achieved less than 10% cost variance compared to existing quotations<br>
+    • Built flexible UI focused on user-accessibility, transparency, and minimizing reliance on supplier information<br>
+    • Automated the calculation and established standard operating procedures for sustained usage of model<br>
+    <i>Cost Reduction:</i><br>
+    • $17.2k savings across 5 injection molding tools using should-costing model<br>
+    • Achieved a $1.06M annual saving by internalizing side view mirrors for Model Y and Model 3<br>
+    • $3.9k saving on tooling cost for overmolded part in side-view mirror along with quality improvement<br>
+    • Achieved annual saving of $125k on Cybertruck latch and $1.8M on future project through negotiation and design change<br>
+    • Worked on sourcing, contract agreement, packaging improvement, and chargeback resolutions<br>
+
+- title: Graduate Student, <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a> (M.S. in Industrial Engineering and Enterprise Systems Engineering)
+  from: Aug, 2022
+  to: May, 2024
+  description: >
+    <i>Concentration - Operations Research and Advanced Analytics</i><br>
+    Worked on <a href="/projects/">multiple projects</a> in the field of optimization and data science.<br>
+    <i>Coursework:</i><br>
+    • Game Theory and Fair Division<br>
+    • Integer Programming<br>
+    • Optimization for Large Scale Networks<br>
+    • Big Graphs and Social Networks<br>
+    • Computing for ISE<br>
+    • Advanced Stochastic Processes<br>
+    • Optimization for Large Systems<br>
+    • CS for Quants<br>
+    • Analysis of Network Data<br>
+    • Data Visualization<br>
+    <i>Positions held:</i><br>
+    • Vice-President, Indian Graduate Student Association<br>
+    • Cultural Secretary, Bengali Students Organization<br>
+    • Graduate Outreach Lead, SPICMACAY<br>
+    • Member, IISE<br>
+
+- title: Purchase and Supply Chain Engineer, <a href="https://www.mitsubishielectric.com/en/index.html">Mitsubishi Electric</a>, Bangalore, India
+  from: Nov, 2019
+  to: Apr, 2022
+  description: >
+    <i>Overview and KPIs achieved:</i><br>
+    • Sole member responsible for entire factory import operations<br>
+    • Handled 18 overseas suppliers and 4 domestic suppliers, encompassing above 2000 unique electrical and mechanical parts from 9 countries<br>
+    • On-time Delivery Ratio - Increased from 86% to 99.7%<br>
+    • Airfreight Cost - Reduced by 40%<br>
+    • Cost Reduction - 6200 INR/elevator unit<br>
+    • Used Excel, SQL, and Python to automate multiple processes and improve database management<br>
+    <i>Material Requirement Planning and Inventory Control:</i><br>
+    • Created Standard Operating Procedures for handling imports with special emphasis on handling inventory for Phase-in / Phase-out parts<br>
+    • Created order planning sheets and standardized monthly ordering process<br>
+    • Contingency planning for post-pandemic strain on supply chain and inventory re-optimization considering the global semiconductor shortage and logistical disruptions<br>
+    <i>Supply Chain improvement and Costing:</i><br>
+    • Improved frequency and accuracy of order forecasting<br>
+    • Optimized ordering strategy and incoterms based on Lead-time changes<br>
+    • Identified and targeted high cost-impact items for potential cost-reduction activities through ABC, Spend, and Pareto analysis<br>
+    • Achieved Cost Reduction through Optimized Multi-sourcing, Value Engineering, and Competitive Pricing Negotiation<br>
+    • Supported in localization activities, especially fasteners, terminals, wires, PCBs, cast iron parts<br>
+    • Utilization of Dead Stock through Design changes<br>
+    • Worked on packing improvements and supported logistics<br>
+    <i>Internal Operations improvement and Automation:</i><br>
+    • Used SAP and Mitsubishi's ERP to handle bulk data and create automated custom databases using SQL and Python<br>
+    • Automatized material requirement planning based on detailed study on Bill of Material and market projection<br>
+    • Implemented poka-yoke to reduce man-hour wastage and develop standardized Lean operations.<br>
+    • Root cause analysis and strategizing countermeasures to eliminate bottlenecks in the supply chain<br>
+
+- title: Research Intern, <a href="https://nal.res.in/">National Aerospace Laboratories (CSIR-NAL)</a>, Bangalore, India
+  from: Jun, 2018
+  to: Aug, 2018
+  description: >
+    • Worked on Computational Fluid Dynamics (CFD) Study of Ethanol Fuel injected Gas Turbine Combustor as an alternative biofuel<br>
+    • Designed Gas Turbine combustor using Solidworks<br>
+    • Simulated combustion of ethanol on Ansys Fluent to achieve desired smooth temperature gradient pattern factor at the outlet<br>
+
+- title: Student Engineer, <a href="https://youtu.be/1U9GTFecohk?si=dxuPvStZhhAErdXu">Ashwa Racing (FSAE team)</a>, Bangalore, India
+  from: Oct, 2015
+  to: May, 2018
+  description: >
+    • Implemented improvements in Engine and Electrical Subsystem for a Formula style hybrid racecar, which was designed, assembled, and tested in college premises<br>
+    • Secured 2nd Place internationally in FSAE ISSS Formula Hybrid 2018 in New Hampshire<br>
+    • Won General Motors Spirit of Formula Hybrid award<br>
+    • Implemented Electronic Throttle System as opposed to Manual cable throttle, for more precise control of airflow for intake manifold and eliminating risk of cable breakage<br>
+    • Designed the engine cooling system and calculated radiator specifications based on LMTD method for heat exchangers<br>
+    • Worked on OEM selection and procurement<br>
+    • Hands-on experience in assembling electrical and mechanical components on the car<br>
+
+- title: Undergraduate Student, <a href="https://www.rvce.edu.in/">R.V. College of Engineering</a> (B.E. in Mechanical Engineering)
+  from: Aug, 2015
+  to: Aug, 2019
+  description: >
+    Key areas of concentration - Automotive Engineering, Fluid mechanics, Thermodynamics, Material science<br>
+    <i>Publication:</i> Thotadara Shivalingappa R, Narasimha Murthy HNR, Majumdar U, et al. (2021) 'Development of poly (vinylidene fluoride)/silver nanoparticle electrospun nanofibre mats for energy harvesting', Polymers and Polymer Composites<br>
+    <i>Positions held:</i><br>
+    • Engine Team Lead, Ashwa Racing (Formula SAE team)<br>
+    • Head of Cultural Activities Team<br>

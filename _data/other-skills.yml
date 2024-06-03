@@ -1,0 +1,37 @@
+- name: Discrete Optimization / Mathematical Programming
+  percentage: 80
+  level: 
+  color: primary
+
+- name: Material Requirement Planning / Inventory Control
+  percentage: 90
+  level: 
+  color: primary
+
+- name: Procurement / Supply Chain Management
+  percentage: 80
+  level: 
+  color: primary
+
+- name: Production Planning / Scheduling
+  percentage: 70
+  level: 
+  color: primary
+
+- name: Git
+  percentage: 60
+  level: 
+  color: warning
+
+- name: Solidworks
+  percentage: 50
+  level: 
+  color: warning
+
+- name: Ansys
+  percentage: 40
+  level: 
+  color: warning
+
+
+
