@@ -8,7 +8,7 @@
 title               : Utsav Majumdar
 description         : >-
                       I am passionate about optimization, especially in supply chain, manufacturing and logistics. Feel free to browse through my projects and resume! 😄
-baseurl             : utsavmajumdar.github.io   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
+baseurl             : portfolio   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
 #                                             otherwise will be hosted at <your-username>.github.io/{{base_url}}
 repository          : utsavmajumdar14                    # Change to <your-username> for github OR, if that doesn't work <your-username>/<your-username>.github.io (or remove it if you don't need remote projects) -- for example, I would put "jnaiman" without the quotes after the ":" here
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
@@ -35,7 +35,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Utsav Majumdar
-  image             : /utsavmajumdar.github.io/assets/pngs/profile_pic.png
+  image             : /portfolio/assets/pngs/profile_pic.png
 #  behance           : your_username
 # dribbble          : your_username
   email             : utsav.majumdar1497@gmail.com
