@@ -1,18 +1,22 @@
 ---
-title: The Hello World of Blogs
-tags: [Technology, Blogging]
+title: Music
+tags: 
 style: fill
 color: secondary
-description: This is a blog post to get you started.
+description: Some of music I have composed and arranged in the past few years.
 ---
 
 Source: [portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU)
 
-This is me writing an intro to this blog post.  So introlicioius.
+I primarily play the guitar and sing at times. However, I have always enjoyed composing new stuff or making new arrangments. <br>
+I used to play in a band named [The Lost Cassette](https://www.instagram.com/thelostcassette/)
 
-## 1. Here is one thing I want to say
+## 1. Live performance at [Sofar Sounds](https://www.sofarsounds.com/)
 
-This is maybe an important thing, and, at the very least it is first.
+This is our original composition, inspired by Indian classical ragas, [Malhar](https://en.wikipedia.org/wiki/Malhar) and [Darbari](https://en.wikipedia.org/wiki/Darbari_Kanada) that we performed live. <br>
+<div class="video">
+  <iframe src="https://www.youtube.com/embed/PITwyWY6TK0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## 2. Another thing
 
