@@ -1,7 +1,7 @@
 ---
 name: Resource Allocation Under Envy Constraints
 tools: [Python, HTML]
-image: /portfolio/assets/pngs/gametheory.jpg
+image: /assets/pngs/gametheory.jpg
 description: Exploring methods to balance agent preferences and minimizing overall cost in task allocation in a game theoretic setting
 custom_js:
   # - vega.min

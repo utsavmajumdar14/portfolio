@@ -1,7 +1,7 @@
 ---
 name: Route Optimization for Charge constrained EV
 tools: [Python, HTML]
-image: /portfolio/assets/pngs/californiaroad.jpg
+image: /assets/pngs/californiaroad.jpg
 description: Algorithm to find the shortest route for a charge constrained EV implemented on California road network with Tesla Superchargers
 custom_js:
   # - vega.min
