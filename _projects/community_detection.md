@@ -1,6 +1,6 @@
 ---
 name: Community Detection in Social Networks
-tools: [Python, HTML]
+tools: [Python, CUDA, C++, HTML]
 image: /assets/pngs/communitydet.jpg
 description: Sequential and parallel algorithms to accelerate the detection of communities in social networks
 custom_js:
@@ -10,16 +10,16 @@ custom_js:
   # - justcharts
 ---
 
-# Route Optimization for Charge constrained EV
+# Community Detection in Social Networks
+In a large scale social network, often there are communities being formed due to relative closeness of nodes.
 
-
-## Motivation
+<!-- ## Experi
 
 To be added
 
 ## Premise
 
-To be added
+To be added -->
 
 ## Detailed code and analysis
 

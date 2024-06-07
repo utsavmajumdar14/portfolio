@@ -15,11 +15,21 @@ custom_js:
 
 ## Motivation
 
-To be added
+A pertinent and standard problem to tackle in route optimization is to consider the limited battery capacity of EVs. Since EVs cannot travel lengthy distances like combustion vehicles, going from an origin <i>O</i> to a destination <i>D</i> would require proper strategizing and routing it through required superchargers.
 
-## Premise
+<!-- ## Toy Problem
 
-To be added
+Here we consider a toy network.
+<div>
+![image](/portfolio/assets/pngs/toynetwork.png)
+</div>
+
+## California Road Network
+
+<div>
+![image](/portfolio/assets/pngs/EVCal.png)
+</div> -->
+
 
 ## Detailed code and analysis
 
