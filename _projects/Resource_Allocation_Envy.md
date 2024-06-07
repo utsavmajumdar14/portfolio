@@ -46,5 +46,3 @@ This dual objectiveâ€”minimizing time/cost while maximizing agent satisfactionâ€
 <div class="right">
 {% include elements/button.html link="https://github.com/utsavmajumdar14/resource_alloc_envy" text="Repository" %}
 </div>
-
-## 
