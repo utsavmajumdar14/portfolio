@@ -1,7 +1,7 @@
 ---
 name: Optimizing shipment and production expansion
 tools: [Python, Gurobi, Networkx, Geopandas, HTML]
-image: /assets/pngs/shipmentoptimize.jpg
+image: /assets/pngs/shipmentoptimize.png
 description: Optimizing shipment for a network of production and distribution facilities in US
 custom_js:
   # - vega.min
