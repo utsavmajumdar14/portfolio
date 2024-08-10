@@ -20,10 +20,9 @@ I built an algorithm that can outperform the established algorithms by leveragin
 </div>
 
 ## Overview plots
-![Overview](/assets/plots/all/balinski_vs_hungarian.html)
-<!-- <div class="left">
-{% include elements/button.html link="/assets/plots/all/balinski_vs_hungarian.html" text="Overview" %}
-</div> -->
+<div class="left">
+{% include elements/button.html link="assets/plots/all/balinski_vs_hungarian.html" text="Overview" %}
+</div>
 <div class="right">
 {% include elements/button.html link="/assets/plots/all/balinski_vs_hungarian_simplify.html" text="Simplified" %}
 </div>
