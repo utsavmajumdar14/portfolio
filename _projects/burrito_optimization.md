@@ -11,7 +11,7 @@ custom_js:
 ---
 
 # Using principles of facility location on Burrito optimization
-Using gurobi to solve the [burrito optimization game](https://www.gurobi.com/burrito-optimization-game/).
+Using gurobi to solve the burrito optimization game.
 
 ## Achieved perfect results
 ![image](/portfolio/assets/pngs/perfect_results.png)
