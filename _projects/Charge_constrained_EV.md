@@ -34,9 +34,9 @@ Here we consider a toy network.
 ## Detailed code and analysis
 
 <div class="left">
-{% include elements/button.html link="https://github.com/utsavmajumdar14/charge_constrained_route_optimization/blob/main/toy/EV_Charging_function.ipynb/" text="Toy problem" %}
+{% include elements/button.html link="https://nbviewer.org/github/utsavmajumdar14/charge_constrained_route_optimization/blob/main/toy/EV_Charge.ipynb" text="Toy problem" %}
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/utsavmajumdar14/charge_constrained_route_optimization/blob/main/california/EV_Charging_function_Final_California.ipynb" text="Study on section of california" %}
+{% include elements/button.html link="https://nbviewer.org/github/utsavmajumdar14/charge_constrained_route_optimization/blob/main/final/EV_Charge.ipynb" text="Study on section of california" %}
 </div>
